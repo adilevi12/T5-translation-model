@@ -263,7 +263,7 @@ if __name__ == '__main__':
     VAL_UNLABELED = 'data/val.unlabeled'
     TRAIN_MOD = 'train.labeled.with.modifiers'
     VAL_MOD = 'val.labeled.with.modifiers'
-    TAGGED_VAL = 'val_319003323_322228974.labeled'
+    TAGGED_VAL = 'val_model.labeled'
 
     max_input_length = 500
     max_target_length = 500
