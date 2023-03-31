@@ -56,7 +56,7 @@ def tagger(unlabeld_path, outfile_path, model_path, max_genration_length):
 
 if __name__ == '__main__':
     TEST = 'data/comp.unlabeled'
-    TAGGED_TEST = 'comp_319003323_322228974.labeled'
+    TAGGED_TEST = 'comp_model.labeled'
 
     # write here the path to the model: must end with "modified-basline-new/checkpoint-17500"
     model_path = "/home/student/notebooks/workspace/modified-basline-new/checkpoint-17500"
